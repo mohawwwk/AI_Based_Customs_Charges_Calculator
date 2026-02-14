@@ -189,7 +189,7 @@ Our system stores rates in database:
 
 ## 📝 License
 
-This project is for educational purposes as part of PBL Project 2024.
+This project is for educational purposes as part of PBL Project 2026.
 
 ## 🙏 Acknowledgments
 
